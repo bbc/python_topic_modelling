@@ -1,0 +1,2 @@
+python do_query.py 500
+python do_query.py 300
